@@ -5,6 +5,7 @@
         <wb-resource deploy-path="/" source-path="/target/m2e-jee/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <property name="java-output-path" value="/rebook/WebRoot/WEB-INF/classes"/>
-        <property name="context-root" value="rebook"/>
+        <property name="me-merge-utility-modules" value="true"/>
+        <property name="context-root" value="book"/>
     </wb-module>
 </project-modules>
